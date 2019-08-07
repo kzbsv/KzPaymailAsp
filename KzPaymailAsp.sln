@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KzPaymailAsp", "KzPaymailAsp.csproj", "{0C55FFC5-6254-40C1-8C3C-5AE9506CDE3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KzPaymailAsp", "KzPaymailAsp\KzPaymailAsp.csproj", "{0C55FFC5-6254-40C1-8C3C-5AE9506CDE3A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{8C800986-8DC2-466C-A315-32878DEE032D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.KzPaymailAsp", "..\tests\Tests.KzPaymailAsp\Tests.KzPaymailAsp.csproj", "{C7D65EC2-4236-4CDE-A2B2-33EA2D63B258}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.KzPaymailAsp", "tests\Tests.KzPaymailAsp\Tests.KzPaymailAsp.csproj", "{C7D65EC2-4236-4CDE-A2B2-33EA2D63B258}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1AF9BD64-8D60-45E7-9C18-A57D467B70D9}"
 	ProjectSection(SolutionItems) = preProject
-		..\README.md = ..\README.md
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
